@@ -109,8 +109,7 @@ JSONPlaceholder es una API REST gratuita de prueba que simula un servidor real c
 ```
 /postman-api-practice
 ├── README.md
-└── colecciones/
-    └── JSONPlaceholderCRUD.postman_collection.json
+└── JSONPlaceholderCRUD.postman_collection.json
 ```
 
 ---
